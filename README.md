@@ -3,7 +3,7 @@
 # Diego Lopez
 
 <a href="https://github.com/bjjlops">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=720&height=45&lines=I+don't+write+code+anymore.;I+write+the+loops+that+write+the+code.;Solo+founder+%C2%B7+CS+%C2%B7+terminal-native" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=720&height=45&lines=I+don't+write+code+anymore.;I+write+the+loops+that+write+the+code.;Founder+%C2%B7+CS+%C2%B7+terminal-native" alt="Typing intro" />
 </a>
 
 </div>
