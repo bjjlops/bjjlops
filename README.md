@@ -10,7 +10,7 @@
 
 ---
 
-Solo technical founder. I build products **and** the agentic tooling that builds them — productivity software on one screen, dev-workflow automation on the next. Right now I'm turning my own development process into a fleet of agents I **orchestrate** instead of operate.
+Technical founder. I build products **and** the agentic tooling that builds them — productivity software on one screen, dev-workflow automation on the next. Right now I'm turning my own development process into a fleet of agents I **orchestrate** instead of operate.
 
 Security-first by instinct, terminal-native by habit, shipping by default.
 
